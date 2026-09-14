@@ -13,13 +13,12 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 22.86 129.54)
-		(size 232.41 29.21)
+		(at 21.59 22.86)
+		(size 233.68 135.89)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -29,7 +28,7 @@
 		)
 		(uuid "879e1270-2f10-48e2-adb9-8c8e9c331030")
 		(property "Sheetname" "Main Board"
-			(at 22.86 128.8284 0)
+			(at 22.098 18.034 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40,7 +39,7 @@
 			)
 		)
 		(property "Sheetfile" "main_board.kicad_sch"
-			(at 22.86 159.3346 0)
+			(at 21.59 52.6546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
