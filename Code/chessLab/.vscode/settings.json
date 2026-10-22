@@ -1,0 +1,7 @@
+{
+  "clangd.path": "/home/zarko/.platformio/packages/tool-clangd-esp/bin/clangd",
+  "clangd.arguments": [
+    "--compile-commands-dir=/home/zarko/Documents/Programmes/chessLab/Code/chessLab/.cache/clangd",
+    "--query-driver=/home/zarko/.platformio/packages/toolchain-*/bin/*,/home/zarko/.platformio/packages/tool-*/bin/*"
+  ]
+}

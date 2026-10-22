@@ -1,4 +1,0 @@
-to use telnet type telnet 192.168.x.xxx
-The ip adress is found in the serial monitor at the first usb setup
-
-Make sure the IP is correctly placed into platformio.io config file
